@@ -12,6 +12,8 @@ Essentially, with the same analog sensor, you can exhibit two different behavior
 
 One problem I ran into was for the adjusting brightness behavior. As you switch between the lights, the unused LED light would still exhibit the brightness of the analog input from previous, so my solution was to create another variable called unusedLED that is determined by the blue (light) switch, and ensure that the unusedLED is turned completely off while the other LED adjusts brightness. Read more about it in the arduino code [here](/dueFebruary18/february18.ino). 
 
+## Pictures and Video
+
 As you can see in the schematic below, I connected 2 10k resistors, connected to the ground, to the 2 switches (pin 2 and 4), which are also connected to the 5V. And I connected 2 330 resistors for the 2 LED lights (pin 6 and 11). Of course, potentiometer is also connected to its pin (A3), 5V, and ground as well.
 
 <img src="schematic.JPG" alt="schematic" width="320" height="240">
