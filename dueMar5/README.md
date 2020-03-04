@@ -14,6 +14,6 @@ Regarding the code, the biggest problem I ran into was figuring out how to get t
 
 Here are some photos of the project as well as the schematic. You can see the video [here](https://youtu.be/Ilj9XaZuWbI).
 
-<img src="circuit.JPG" alt="circuit" width="320" height="240">
-<img src="closeup.JPG" alt="closeup" width="320" height="240">
-<img src="schematic.JPG" alt="schematic" width="320" height="240">
+<img src="circuit.JPG" alt="circuit" width="640" height="480">
+<img src="closeup.JPG" alt="closeup" width="640" height="480">
+<img src="schematic.png" alt="schematic" width="640" height="480">
