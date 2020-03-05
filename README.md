@@ -2,6 +2,7 @@
 This is a repository for all my projects for Intro to IM course at NYU Abu Dhabi.
 
 **Assignment List**
+Mar 5 - Midterm: show off everything you have learned so far and create a creative, physical platform!
 
 Feb 25 - Make a musical instrument using tone and a servo.
 
