@@ -1,6 +1,8 @@
 ## Party Portrait!
 
-For this week's assignment, we were asked to create a self-portrait using Processing. Instead of just creating some shapes that resemble my face, I decided to make it a little fun and add an interactive feature called Party Screen. Check out the video [here](https://youtu.be/HtKwGqB7jCc).
+For this week's assignment, we were asked to create a self-portrait using Processing. Instead of just creating some shapes that resemble my face, I decided to make it a little fun and add an interactive feature called Party Screen.
+
+Check out the video [here](https://youtu.be/HtKwGqB7jCc).
 
 <img src="setup.png" alt="top" width="250" height="250">
 
