@@ -1,4 +1,4 @@
-## Computer Generative Art
+# Computer Generative Art
 
 ### Inspiration
 
@@ -21,6 +21,6 @@ Creating an illusion of control in an uncontrollable world, this is the motivati
 
 At first, they might feel frustrated, but they can press r and have an empty canvas to start again. I added this feature, so that as they grow accustomed to how to move the mouse, they get another chance to try. I am really excited to see people try and create something unique, together with the computer.
 
-Since this could be a bit complicated at start, I have added instruction which can be shown in the screenshot below. Also, check out the video of me trying [here](https://youtu.be/L2C-IfeIo_8) and the code [here](/dueMarch31/computer_art.pde).
+Since this could be a bit complicated at start, I have added instruction which can be shown in the screenshot below. Also, check out the [video of me trying](https://youtu.be/L2C-IfeIo_8) as well as the [code](/dueMarch31/computer_art.pde).
 
 <img src="instruction.png" alt="top" width="500" height="500">
