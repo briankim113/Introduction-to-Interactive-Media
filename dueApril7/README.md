@@ -1,6 +1,6 @@
 # Ping Pong
 
-<img src="instruction.png" alt="instructions" width="600" height="500">
+<img src="instructions.png" alt="instructions" width="600" height="500">
 <img src="game.png" alt="game" width="600" height="500">
 <img src="over.png" alt="over" width="600" height="500">
 
