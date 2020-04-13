@@ -3,8 +3,7 @@ Comparing Airbnb prices of different neighborhoods of Buenos Aires, Argentina
 
 Check out the [sample video](https://youtu.be/lbSguHTDa7k) and the [full code](/dueApril14/data_visualization.pde).
 
-<img src="initial.png" alt="initial" width="350" height="390">
-<img src="display.png" alt="game" width="350" height="390">
+<img src="initial.png" alt="initial" width="350" height="390"><img src="display.png" alt="game" width="350" height="390">
 
 ## Concept
 For this week's assignment, we were asked to use Processing to get some free public data for analysis and use it to create some visualization.
