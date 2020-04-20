@@ -1,26 +1,22 @@
-# Sketchbook
+# Doodle
 
-We were asked to mess around with Professor Aaron Sherwood's code from his guest lecutre and create something new. What I ended up with is a sketchbook.
+We were asked to mess around with Professor Aaron Sherwood's code from his guest lecutre and create something new. What I ended up with my own version of the art.
 
-<img src="sketchbook.png" alt="initial" width="800" height="800">
+Video is available [here](https://youtu.be/UFFMIZhgzIE).
 
-## Process
-*It will be useful to have both the [original code](https://github.com/aaronsherwood/introduction_interactive_media/blob/master/processingExamples/drawing/connectedLines/connectedLines.pde) and [my code](/dueApril21/sketchpad.pde) side by side to see what I describe below.
+<img src="screen.png" alt="initial" width="700" height="700">
 
-As I was messing around with the rotate function and how mouseX and mouseY would play a role, I realized that some variables no longer started working.
-So I weeded those out until essentially I only had varibles X and Y left for the Rotators.
-Then, I realized that it kept drawing lines following my mouse despite that I had so many rotators. So I even brought the number down to 2, and voila, it still worked fine.
+## Process and Features
+*It will be useful to have both the [original code](https://github.com/aaronsherwood/introduction_interactive_media/blob/master/processingExamples/drawing/connectedLines/connectedLines.pde) and [my code](/dueApril21/doodle.pde) side by side to see what I describe below.*
 
-## Features and Discoveries
-My first instinct after this realization was to create some kind of sketchbook out of this. So I incorporated some mouseClicked and mousePressed for users to be able to change colors and restart if needed.
-It seemed like it was a smooth sketchpad, where one clicks and drags the mouse, and upon release, the drawing stops.
+As I was messing around with the colors, I realized that I could easily finesse letting the user mess around with the color of the lines easily. So when a mouse is clicked, I generate a new color value determined by their mouse position as well as some random number.
 
-BUT THEN! I was clicking at random points and realized that lines were... forming? Despite that I wasn't dragging the mouse.
-After some experiment, I realized that because I developed this code based on Aaron's checking distance between the rotators in the drawLine function, I was continuously drawing small line between mouse coordinates which made them look like nice curves.
+Then, I decided to play around with distances - a distance between the rotaters themselves as well as the distance between a rotater and a mouse. So I added these elements into the constructor, so each rotater has its own unique value for these.
 
-To test this, you can simply click in one place and then another place within the distance specified in the drawLine function, and you will see a line.
+Once I did this, I wanted to do something nice with these new unique values. So I decided to use these distances in the line drawing itself. So only the lines that are close to the mouse display and the far ones hide (by changing the color to the background color). I decided that hiding the color was the easiest way to manipulate showing and hiding rather than messing around with the line() function. 
 
-So these two different methods (1 - drawing by dragging mouse; 2 - clicking nearby coordinates) were how I drew this flower above. You can probably tell where I used which method.
+## Discoveries
+This was not that difficult to do thanks to Professor Sherwood's great starting code. But what I ended up creating asks for a different kind of interaction from the user and the artwork. It is really cool that by trying things out with a few functions can create something completely new and refreshing.
 
 ## Special Thanks to
 Professor Aaron Sherwood
