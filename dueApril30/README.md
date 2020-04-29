@@ -8,7 +8,7 @@ My main goal was to understand the code, and simplify it as much as I can by get
 ## Video and Images
 Video is available [here](https://youtu.be/Je51REwtkBU).
 
-I found the image for the[flower](/dueApril30/lily.jpg) on a twitter account called [Fraser Flowers](https://twitter.com/fraserflowers1).
+I found the image for the [flower](/dueApril30/lily.jpg) on a twitter account called [Fraser Flowers](https://twitter.com/fraserflowers1).
 
 2D and 3D
 
