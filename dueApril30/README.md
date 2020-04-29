@@ -1,18 +1,23 @@
 # Explosion!
+
+## Goal
 We were asked to do something creative with an image using pixels. I utilized the Processing's extensive [documentation about pixels](https://processing.org/tutorials/pixels/) and tweaked their last example of 3D explosion to do something cool.
 
 My main goal was to understand the code, and simplify it as much as I can by getting rid of unnecessary variables, while also adding creative features of my own.
 
-## Images and Video
+## Video and Images
+Video is available [here](https://youtu.be/Je51REwtkBU).
+
+I found the image for the[flower](/dueApril30/lily.jpg) on a twitter account called [Fraser Flowers](https://twitter.com/fraserflowers1).
+
 2D and 3D
 
-<img src="image1.png" alt="2D" width="450" height="450"><img src="image2.png" alt="3D" width="450" height="450">
+<img src="image1.png" alt="2D" width="300" height="300"><img src="image2.png" alt="3D" width="300" height="300">
 
 Scale Down and Scale Up
 
-<img src="image3.png" alt="scaledown" width="450" height="450"><img src="image4.png" alt="scaleup" width="450" height="450">
+<img src="image3.png" alt="scaledown" width="300" height="300"><img src="image4.png" alt="scaleup" width="300" height="300">
 
-Video is available [here](https://youtu.be/Je51REwtkBU).
 
 ## Features
 The code can be found [here](/dueApril30/image_stuff.pde).
@@ -32,3 +37,5 @@ That was disappointing.
 
 ## Reference
 Pixels on Processing: https://processing.org/tutorials/pixels/
+
+Image for the flower: https://twitter.com/fraserflowers1
