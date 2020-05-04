@@ -1,17 +1,20 @@
 ## Introduction to Interactive Media (Spring 2020)
 This is a repository for all my projects for Intro to IM course at NYU Abu Dhabi.
 
-### Spring 2
+### Spring 2 - Processing
+[Final Project](/FinalProject) - Anything using Processing
+
+[Assignment 9](/dueApril30) - Pixels
+
 [Assignment 8](/dueApril21) - Create some new artwork using the lecture code
 
 [Assignment 7](/dueApril14) - Data visualization or generative text
 
 [Assignment 6](/dueMarch31) - Computer generative art
 
-[Assignment 5](/dueMarch19) - Self portrait using Processing.
+[Assignment 5](/dueMarch19) - Self portrait.
 
-### Spring 1
-
+### Spring 1 - Arduino
 [Midterm](/dueMar5) - Show off everything you have learned so far and create a creative, physical platform!
 
 [Assignment 4](/dueFebruary25) - Musical instrument using tone and a servo
